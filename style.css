@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  font-family: "Azeret Mono", monospace;
+}
+
+.header-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+button {
+  padding: 17px 24px;
+  border: 1px solid #000;
+  border-radius: 8px;
+  background: none;
+}
+
+button a {
+  color: #0d1321;
+}
